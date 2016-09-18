@@ -1,0 +1,98 @@
+/* Body */
+body {
+	background-color: #F2F2F2;
+	color: #333333;
+	margin: 0px;
+	padding: 0px;
+}
+
+/* Navbar */
+.navbar-default {
+	background-color: #F2F2F2;
+	border-style: none;
+}
+
+.navbar-default .container-fluid{
+	border-bottom: 1px solid #BFBFBF;
+}
+
+.navbar-default .navbar-brand {
+	color: #000000;
+	font-family: "proxima-nova", helvetica, sans-serif;
+	font-size: 1.25em;
+	font-style: normal;
+	font-weight: 400;
+	text-decoration: none;
+	letter-spacing: 0.5px
+}
+
+.navbar-default .navbar-brand:hover {
+	color: #000000;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #333333;
+	font-family: "proxima-nova", helvetica, sans-serif;
+	font-size: 1.15em;
+	font-style: normal;
+	font-weight: 200;
+	text-decoration: none;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+	text-decoration: underline;
+}
+
+.navbar-default .navbar-nav > .active > a {
+	color: #000000;
+	font-weight: 300;
+	background-color: #F2F2F2;
+}
+
+.navbar-default .navbar-nav > .active > a:hover {
+	color: #000000;
+	background-color: #F2F2F2;
+	text-decoration: underline;
+}
+
+/*.navbar-default .container{
+	border-bottom: 1px solid #999999;
+}
+.navbar-default .navbar-brand {
+	color: #000000;
+	font-family: "proxima-nova", helvetica, sans-serif;
+	font-size: 2.5em;
+	font-style: normal;
+	font-weight: 300;
+	margin-top: 28px;
+	text-decoration: none;
+	letter-spacing: -1px
+}
+.navbar-default .navbar-brand > a:hover {
+	color: #000000;
+}
+.navbar-default .navbar-brand img {
+	padding-top: 25px;
+	width: 6em;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #737373;
+	font-family: "futura-pt", helvetica, sans-serif;
+	letter-spacing: 0.5px;
+	font-weight: 400;
+	font-size: 1em;
+	text-decoration: none;
+	border-left: 1px solid #999999;
+	display: inline-block;
+	margin-top: 45px;
+	line-height: 0px;
+	padding: 8px 20px;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	text-decoration: none;
+	color: #000000;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	background-color: #F2F2F2;
+	color: #000000;
+}*/
