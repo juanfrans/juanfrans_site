@@ -93,6 +93,34 @@ body {
 	padding-bottom: 40px;
 }
 
+.bs-docs-footer{
+	border-top: 1px solid #BFBFBF;
+	padding-bottom: 40px;
+}
+
+.footer-subtitle{
+	color: #000000;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 1.35em;
+	font-weight: 300;
+	padding-top: 20px;	
+}
+
+.footer-item{
+	color: #000000;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 1.1em;
+	font-weight: 200;
+	margin: 0px;
+}
+
+.footer-item a{
+	color: #000000;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 1.1em;
+	font-weight: 200;
+	margin: 0px;
+}
 
 /*.navbar-default .container{
 	border-bottom: 1px solid #999999;
