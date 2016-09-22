@@ -18,7 +18,7 @@ body {
 
 .navbar-default .navbar-brand {
 	color: #000000;
-	font-family: "proxima-nova", helvetica, sans-serif;
+	font-family: "futura-pt", helvetica, sans-serif;
 	font-size: 1.25em;
 	font-style: normal;
 	font-weight: 400;
@@ -32,7 +32,7 @@ body {
 
 .navbar-default .navbar-nav > li > a {
 	color: #333333;
-	font-family: "proxima-nova", helvetica, sans-serif;
+	font-family: "futura-pt", helvetica, sans-serif;
 	font-size: 1.15em;
 	font-style: normal;
 	font-weight: 200;
@@ -53,6 +53,30 @@ body {
 	color: #000000;
 	background-color: #F2F2F2;
 	text-decoration: underline;
+}
+
+/* Summary */
+.summary p{
+	color: #000000;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 1.35em;
+	/*font-style: normal;*/
+	font-weight: 300;
+	max-width: 900px; 
+	/*text-align: center;*/
+}
+
+.summary {
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+.subtitle p{
+	color: #333333;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 1.15em;
+	font-weight: 200;
+	letter-spacing: 0.5px
 }
 
 /*.navbar-default .container{
