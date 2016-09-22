@@ -31,7 +31,7 @@ body {
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #333333;
+	color: #4C4C4C;
 	font-family: "futura-pt", helvetica, sans-serif;
 	font-size: 1.15em;
 	font-style: normal;
@@ -45,7 +45,7 @@ body {
 
 .navbar-default .navbar-nav > .active > a {
 	color: #000000;
-	font-weight: 300;
+	font-weight: 400;
 	background-color: #F2F2F2;
 }
 
@@ -60,24 +60,39 @@ body {
 	color: #000000;
 	font-family: "futura-pt", helvetica, sans-serif;
 	font-size: 1.35em;
-	/*font-style: normal;*/
 	font-weight: 300;
 	max-width: 900px; 
-	/*text-align: center;*/
 }
 
 .summary {
 	padding-top: 20px;
-	padding-bottom: 50px;
+	padding-bottom: 40px;
 }
 
+/* Subtitle */
 .subtitle p{
-	color: #333333;
+	color: #000000;
 	font-family: "futura-pt", helvetica, sans-serif;
-	font-size: 1.15em;
-	font-weight: 200;
-	letter-spacing: 0.5px
+	font-size: 1.35em;
+	font-weight: 300;
 }
+
+/* Project Thumbs and Descriptions */
+.project-thumb h2{
+	color: #000000;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 1.35em;
+	font-weight: 400;
+}
+
+.project-thumb p{
+	color: #000000;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 1.1em;
+	font-weight: 200;
+	padding-bottom: 40px;
+}
+
 
 /*.navbar-default .container{
 	border-bottom: 1px solid #999999;
