@@ -64,6 +64,11 @@ body {
 	max-width: 900px; 
 }
 
+.summary p > a{
+	color: #000000;
+	text-decoration: underline;
+}
+
 .summary {
 	padding-top: 20px;
 	padding-bottom: 40px;
@@ -93,6 +98,7 @@ body {
 	padding-bottom: 40px;
 }
 
+/* Footer */
 .bs-docs-footer{
 	border-top: 1px solid #BFBFBF;
 	padding-bottom: 40px;
@@ -122,44 +128,31 @@ body {
 	margin: 0px;
 }
 
-/*.navbar-default .container{
-	border-bottom: 1px solid #999999;
-}
-.navbar-default .navbar-brand {
+/* About Page */
+.cv-section{
 	color: #000000;
-	font-family: "proxima-nova", helvetica, sans-serif;
-	font-size: 2.5em;
-	font-style: normal;
-	font-weight: 300;
-	margin-top: 28px;
-	text-decoration: none;
-	letter-spacing: -1px
-}
-.navbar-default .navbar-brand > a:hover {
-	color: #000000;
-}
-.navbar-default .navbar-brand img {
-	padding-top: 25px;
-	width: 6em;
-}
-.navbar-default .navbar-nav > li > a {
-	color: #737373;
 	font-family: "futura-pt", helvetica, sans-serif;
-	letter-spacing: 0.5px;
-	font-weight: 400;
-	font-size: 1em;
-	text-decoration: none;
-	border-left: 1px solid #999999;
-	display: inline-block;
-	margin-top: 45px;
-	line-height: 0px;
-	padding: 8px 20px;
+	font-size: 1.1em;
+	font-weight: 200;
+	margin: 0px;
+	max-width: 900px; 
 }
-.navbar-default .navbar-nav > li > a:hover {
-	text-decoration: none;
+
+.cv-section .intro-cv{
 	color: #000000;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 1.35em;
+	font-weight: 300;
+	max-width: 900px;
 }
-.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	background-color: #F2F2F2;
+
+ul.cv-list{
+	list-style-type: circle;
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+
+p.cv-item a{
 	color: #000000;
-}*/
+	text-decoration: underline;
+}
