@@ -55,6 +55,14 @@ body {
 	text-decoration: underline;
 }
 
+.navbar-default .navbar-toggle {
+	border: none;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #4C4C4C;
+}
+
 /* Summary */
 .summary p{
 	color: #000000;
