@@ -168,6 +168,10 @@ p.cv-item a{
 	max-width: 900px;
 	padding-bottom: 40px;
 }
+.project-description p > a{
+	color: #000000;
+	text-decoration: underline;
+}
 .project-subtitle p{
 	color: #4C4C4C;
 	font-family: "futura-pt", helvetica, sans-serif;
@@ -186,7 +190,6 @@ p.cv-item a{
 	text-decoration: underline;
 	max-width: 900px;
 }
-
 .losO{
 	padding-bottom: 20px;
 }
